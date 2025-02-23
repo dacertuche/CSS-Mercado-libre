@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../PlatformIO/Projects/Ejemplo4-src"
+		},
+		{
+			"name": "ensayo",
+			"path": "../PlatformIO/Projects/ensayo"
+		},
+		{
+			"name": "tanque sensores",
+			"path": "../PlatformIO/Projects/tanque sensores"
+		},
+		{
+			"name": "Decodificacion assembler",
+			"path": "../PlatformIO/Projects/Decodificacion assembler"
+		}
+	],
+	"settings": {}
+}
